@@ -1,7 +1,7 @@
 # **Przewidywanie ocen uczniów na podstawie danych socjoekonomicznych i ich nawyków**
 
 ### **Cel projektu:**  
-Celem projektu było **stworzenie modelu regresyjnego**, który **przewiduje wynik ucznia** na podstawie:
+Celem projektu było **stworzenie modelu regresyjnego**, który **przewiduje wynik ucznia** na podstawie: 
 - ilości snu
 - liczby godzin nauki
 - frekwencji
